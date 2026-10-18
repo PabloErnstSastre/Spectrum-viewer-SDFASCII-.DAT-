@@ -1,0 +1,5 @@
+Copyright (c) 2026 [Tu Nombre o Nombre de tu Empresa]. Todos los derechos reservados.
+
+Este código fuente es visible públicamente con fines educativos y de revisión, 
+pero no se concede ninguna licencia para su uso, modificación o distribución 
+sin el consentimiento previo por escrito del autor.
