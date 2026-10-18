@@ -1,0 +1,8 @@
+# Dependencias de la aplicación de escritorio (Windows 10/11 y Python 3.11 recomendado)
+PySide6>=6.7,<7
+matplotlib>=3.8,<4
+numpy>=1.26,<3.0
+pandas>=2.0,<3
+sdfascii==0.8.2
+# Solo se necesita si se desea empaquetar la aplicación como .exe:
+pyinstaller>=6.0,<7
